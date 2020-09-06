@@ -38,7 +38,7 @@
     "daemonize2": "~0.4.2",
     "emailjs": "0.3.6",
     "eventemitter2": "~0.4.13",
-    "express": "~3.4.0",
+    "express": "~4.17.1",
     "hooks": "0.3.2",
     "irc-factory": "> 1.8.8",
     "irc-message": "^2.0.1",
