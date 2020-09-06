@@ -43,7 +43,7 @@
     "irc-factory": "> 1.8.8",
     "irc-message": "^2.0.1",
     "jsonminify": "0.2.2",
-    "lodash": "~2.4.1",
+    "lodash": "~4.17.20",
     "moment": "^2.6.0",
     "mongodb": "~1.4.7",
     "q": "~1.0.1",
