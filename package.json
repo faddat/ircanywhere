@@ -45,7 +45,7 @@
     "jsonminify": "0.2.2",
     "lodash": "~2.4.1",
     "moment": "^2.6.0",
-    "mongodb": "~1.4.7",
+    "mongodb": "~3.6.1",
     "q": "~1.0.1",
     "simple-schema": "1.1.0",
     "sockjs": "~0.3.8",
